@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-passport-gitlab.git"
+    "url": "https://github.com/laoona/egg-passport-gitlab.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-passport-gitlab#readme",
+  "homepage": "https://github.com/laoona/egg-passport-gitlab.git",
   "author": "laoona@163.com",
   "license": "MIT"
 }
